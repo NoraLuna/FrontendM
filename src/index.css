@@ -1,0 +1,78 @@
+body {
+  margin: 100;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+main {
+  margin: 100px;
+}
+
+div .contenedor{
+  height: 250px;
+  width: 250px;
+  float: left;
+  margin: 4%;
+}
+
+div .colgreen{
+  color: rgb(124, 198, 116);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+}
+
+div .col2green{
+  color: rgb(35, 81, 30);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+}
+
+div .colblue{
+  color: rgb(81, 157, 233);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+}
+
+div .col2blue{
+  color: rgb(0, 47, 93);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+}
+
+div .colorange{
+  color: rgb(239, 146, 52);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+}
+
+div .col2orange{
+  color: rgb(143, 71, 0);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+}
+
+.porcentaje{
+  color: black;
+}
+
+.cantidad{
+  color: gray;
+}
